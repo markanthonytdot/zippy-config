@@ -2,18 +2,20 @@
   "version": 1,
   "lastUpdated": "2025-08-09T00:00:00Z",
   "providers": {
-    "uber":    { "name": "Uber" },
-    "lyft":    { "name": "Lyft" },
-    "bolt":    { "name": "Bolt" },
-    "cabify":  { "name": "Cabify" },
-    "indrive": { "name": "inDrive" }
+    "uber":       { "name": "Uber" },
+    "lyft":       { "name": "Lyft" },
+    "bolt":       { "name": "Bolt" },
+    "cabify":     { "name": "Cabify" },
+    "indrive":    { "name": "inDrive" },
+    "didi":       { "name": "DiDi" },
+    "ninetynine": { "name": "99" }
   },
   "countries": {
     "US": ["uber", "lyft", "indrive"],
     "CA": ["uber", "lyft", "indrive"],
-    "MX": ["uber", "indrive"],
+    "MX": ["uber", "didi", "indrive"],
 
-    "BR": ["uber", "indrive"],
+    "BR": ["ninetynine", "uber", "indrive"],
     "AR": ["uber", "cabify", "indrive"],
     "CL": ["uber", "cabify", "indrive"],
     "CO": ["uber", "cabify", "indrive"],
@@ -49,3 +51,4 @@
     "GB:London": ["uber", "bolt"]
   }
 }
+
