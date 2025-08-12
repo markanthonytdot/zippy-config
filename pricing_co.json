@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "currency_default": "COP",
+  "countries": {
+    "CO": {
+      "Medellín": {
+        "uber": {
+          "uberX": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "uberXL": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "black": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "didi": {
+          "basic": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "plus": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "cabify": {
+          "lite": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "executive": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "taxi": {
+          "standard": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        }
+      },
+      "Bogotá": {
+        "uber": {
+          "uberX": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "uberXL": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "black": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "didi": {
+          "basic": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "plus": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "cabify": {
+          "lite": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "executive": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "taxi": {
+          "standard": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        }
+      },
+      "Cartagena": {
+        "uber": {
+          "uberX": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "uberXL": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "black": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "didi": {
+          "basic": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "plus": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "cabify": {
+          "lite": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "executive": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "taxi": {
+          "standard": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        }
+      },
+      "Cali": {
+        "uber": {
+          "uberX": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "uberXL": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "black": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "didi": {
+          "basic": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "plus": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "cabify": {
+          "lite": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          },
+          "executive": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        },
+        "taxi": {
+          "standard": {
+            "currency": "COP",
+            "base": null,
+            "per_km": null,
+            "per_min": null,
+            "min_fare": null,
+            "booking_fee": null,
+            "surge_default": null
+          }
+        }
+      }
+    }
+  }
+}
